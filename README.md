@@ -27,3 +27,9 @@ File: <a href="https://github.com/O-ASwIN-O/Excel_Dashboard/blob/main/Excel%20Pr
 
 ## 📷 Dashboard  
 ![Dashboard](Dashboard.png)
+
+## ✅ Conclusion  
+- Bike purchases are most common among **middle-aged customers**.  
+- **Higher income** groups, especially females, are more likely to buy bikes.  
+- **Shorter commute distances** (0–1 mile) show stronger purchase trends.  
+- Dashboard enables quick insights by filtering across demographics.  
