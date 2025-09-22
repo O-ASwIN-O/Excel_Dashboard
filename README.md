@@ -4,7 +4,7 @@
 An Excel dashboard to study bike purchase behavior using customer data. It shows how income, age, gender, education, and region affect bike buying.  
 
 ## 📊 Dataset  
-File:  
+File: <a href="https://github.com/O-ASwIN-O/Excel_Dashboard/blob/main/Excel%20Project%20Dataset.xlsx">DATASET</a>
   
 ## ❓ Questions Answered  
 - Does **income** affect bike purchases?  
